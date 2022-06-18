@@ -1,12 +1,16 @@
 # Detecting-Translated-Korean-Texts-Using-GRU
 
-## How to execute
+## Sources and how to execute
 
-### Google Colab
+### Pre-trained word-embedding load, model, training and evaluation
+
+src/Detecting Translated Texts Using GRU.ipynb 
+
+#### Google Colab
 You can directly execute the codes with google colab in following link.
 https://colab.research.google.com/drive/1SHLihEsln__gdXxKJQzmk5ZUptOFBS3J?usp=sharing
 
-### Local
+#### Local
 Execute src/Detecting Translated Texts Using GRU.ipynb file
 
 e.g.
@@ -22,6 +26,12 @@ e.g.
 *   To change the setting, block/unblock the codes as followings.
 1. Use of pre-trained embedding layer : Block/unblock the codes in part named "Embedding Mode"
 2. GRU-2 / GRU-3 : Block/unblock the codes in part named "GRU-2 / GRU-3"
+
+### Data preprocessing
+
+data/raw/parse.py
+
+`python parse.py`
 
 ## Model
 
