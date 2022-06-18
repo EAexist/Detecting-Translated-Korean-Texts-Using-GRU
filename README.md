@@ -20,19 +20,19 @@ e.g.
 `python Detecting Translated Texts Using GRU.py`
 
 `pip install papermill`\
-`papermill notebook.ipynb output.ipynb`
+`papermill src/Detecting Translated Texts Using GRU.ipynb output.ipynb`
 
 *   Run all blocks to build, train, and evluate the model. It runs with default setting. \ 
-*   Default setting is GRU-3 (3 linear layers) without pre-trained vector, which is the best performing model.\
+*   Default setting is GRU-2 (2 linear layers) without pre-trained vector.\
 *   To change the setting, block/unblock the codes as followings.
 1. Use of pre-trained embedding layer : Block/unblock the codes in part named "Embedding Mode"
 2. GRU-2 / GRU-3 : Block/unblock the codes in part named "GRU-2 / GRU-3"
 
-### 2. `data/raw/parse.py`
+### 2. `src/parse.py`
 
 Data preprocessing
 
-`python parse.py`
+`python src/parse.py`
 
 ## Model
 

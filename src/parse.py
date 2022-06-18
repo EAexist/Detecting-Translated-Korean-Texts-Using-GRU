@@ -1,4 +1,4 @@
-f = open("original.txt", "r")
+f = open("../data/google/raw/original.txt", "r")
 lines = [line for line in f if '\t' in line]
 f.close()
 
@@ -7,7 +7,7 @@ f.close()
 from googletrans import Translator
 translator = Translator()
 
-f = open("google.txt", "w", encoding='utf-8')
+f = open("../data/google/raw/google.txt", "w", encoding='utf-8')
 f.write("translated\ttext\n")
 i = 0
 for line in lines:
