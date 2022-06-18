@@ -1,5 +1,4 @@
 # Detecting-Translated-Korean-Texts-Using-GRU
-Detecting Translated Korean Texts Using GRU
 
 ## How to execute
 
