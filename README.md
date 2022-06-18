@@ -9,6 +9,11 @@ https://colab.research.google.com/drive/1SHLihEsln__gdXxKJQzmk5ZUptOFBS3J?usp=sh
 ### Local
 Execute src/Detecting Translated Texts Using GRU.ipynb file
 
+e.g.
+
+`jupyter nbconvert --to python src/Detecting Translated Texts Using GRU.ipynb`\
+`python Detecting Translated Texts Using GRU.py`
+
 `pip install papermill`\
 `papermill notebook.ipynb output.ipynb`
 
