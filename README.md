@@ -2,7 +2,7 @@
 
 This project is a classification model using GRU that differentiates machine-translated Korean texts from human-written Korean texts.
 
-You can check documentation about the projec [here](https://docs.google.com/presentation/d/1TbQGjW73aO1PJQSE5yjM2-KH1Y47PojmraJpy-2TowE/edit?usp=sharing).
+You can check documentation about the project [here](https://docs.google.com/presentation/d/1TbQGjW73aO1PJQSE5yjM2-KH1Y47PojmraJpy-2TowE/edit?usp=sharing).
 
 This is course project for CS376 Machine Learning. KAIST 2022 Spring. With Sihwan Kim, Jaewon Wi.
 
