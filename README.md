@@ -13,7 +13,7 @@ This is course project for CS376 Machine Learning. KAIST 2022 Spring. With Sihwa
 Pre-trained word-embedding load, model, training and evaluation
 
 #### Google Colab
-You can directly execute the codes with google colab in [here](https://colab.research.google.com/drive/1SHLihEsln__gdXxKJQzmk5ZUptOFBS3J?usp=sharing).
+You can directly execute the codes with google colab in [here](https://colab.research.google.com/drive/1X9kDieGmaaVefZdL3lqZB42oaXB1mgu_?usp=sharing).
 
 #### Local
 Execute src/Detecting Translated Texts Using GRU.ipynb file
